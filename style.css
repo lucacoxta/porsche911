@@ -1,0 +1,45 @@
+body {
+  background-image: url('porsche_911_carrera_s_2019_4k_2.jpg'); /* imagem local dentro da pasta imagens */
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+  color: #fff;
+  font-family: Arial, sans-serif;
+  padding: 20px;
+  text-shadow: 1px 1px 2px #000;
+}
+
+
+/* Estilos dos parágrafos com IDs */
+#historia {
+  background: rgba(0, 0, 0, 0.5);
+  padding: 10px;
+}
+
+#design {
+  background: rgba(255, 255, 255, 0.2);
+  padding: 10px;
+}
+
+#performance {
+  border-left: 5px solid #ff9800;
+  padding-left: 10px;
+}
+
+#tecnologia {
+  font-style: italic;
+  background: rgba(0, 0, 0, 0.4);
+  padding: 10px;
+}
+
+#variantes {
+  color: #8bc34a;
+  font-weight: bold;
+}
+
+#legado {
+  background: rgba(255, 255, 255, 0.15);
+  padding: 10px;
+  border-radius: 8px;
+}
